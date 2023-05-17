@@ -11,4 +11,4 @@ This only exists to make my life easier when I have a fresh start on a RasPi.
 4. Use the `Colour theme:` drop-down box to select `iainstheme`
 
 ### Windows systems
-- Dunno, never tried it. I use Visual Studio on Windows. Probably goes somewhere in `/appdata/`. Google it.
+- Dunno, never tried it; I use Visual Studio on Windows. Probably goes somewhere in `/appdata/`. Google it.
