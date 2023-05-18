@@ -1,7 +1,8 @@
 # Readme and weep
 This is a CodeBlocks config file containing my settings for C/C++ syntax highlighting (colours etc).  
 Installing this will probably overwrite your settings...  
-This only exists to make my life easier when I have a fresh start on a RasPi. It's not exactly how I like my syntax highlighting, just better than the default.
+This only exists to make my life easier when I have a fresh start on a RasPi.  
+It's not exactly how I like my syntax highlighting, just better than the default.
 
 ## Installation
 ### Unix-type systems
